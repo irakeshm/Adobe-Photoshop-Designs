@@ -1,1 +1,1 @@
-# Adobe-Photoshop-Designs
+# Adobe Photoshop & Illustrator Logos and Designs
