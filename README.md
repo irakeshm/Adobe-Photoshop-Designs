@@ -11,15 +11,15 @@
 
 
 ### R Logo
-<img src='https://github.com/irakeshm/Adobe-Photoshop-Designs/blob/master/name.jpg'/>
+<img src='https://github.com/irakeshm/Adobe-Photoshop-Designs/blob/master/Name.jpg'/>
 
 
 ### Angular
-<img src='https://github.com/irakeshm/Adobe-Photoshop-Designs/blob/master/angular.jpg'/>
+<img src='https://github.com/irakeshm/Adobe-Photoshop-Designs/blob/master/Angular.jpg'/>
 
 
 ### BE
-<img src='https://github.com/irakeshm/Adobe-Photoshop-Designs/blob/master/be.jpg'/>
+<img src='https://github.com/irakeshm/Adobe-Photoshop-Designs/blob/master/Be.jpg'/>
 
 
 ### Name Logo
