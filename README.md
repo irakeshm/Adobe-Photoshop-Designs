@@ -11,7 +11,7 @@
 
 
 ### R Logo
-<img src='https://github.com/irakeshm/Adobe-Photoshop-Designs/blob/master/Name.jpg'/>
+<img src='https://github.com/irakeshm/Adobe-Photoshop-Designs/blob/master/Name.png'/>
 
 
 ### Angular
